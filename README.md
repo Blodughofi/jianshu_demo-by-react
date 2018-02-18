@@ -1,5 +1,5 @@
 # jianshu_demo-by-react
 
-npm install      下载所需模块
-npm start        开启服务
-localhost:9002   
+      下载所需模块  npm install
+        开启服务    npm start
+        本地浏览   localhost:9002   
