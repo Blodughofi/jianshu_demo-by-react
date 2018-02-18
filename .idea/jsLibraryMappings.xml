@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{jianshu_demo/node_modules}" />
+    <file url="PROJECT" libraries="{ExtJS GPL-4.2, css-DefinitelyTyped, es6-shim-DefinitelyTyped, html2canvas-DefinitelyTyped, jQuery-2.0.0, javascript-state-machine-DefinitelyTyped, jianshu_demo/node_modules, jquery-DefinitelyTyped, node-DefinitelyTyped, react-DefinitelyTyped, react-addons-linked-state-mixin-DefinitelyTyped, react-bootstrap-DefinitelyTyped, react-native-DefinitelyTyped, react-router-DefinitelyTyped, webpack-hot-middleware-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="WebGL" />
+  </component>
+</project>
